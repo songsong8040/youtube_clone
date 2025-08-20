@@ -70,8 +70,8 @@ export default function VideoCard({video, type}) {
             <div className={`flex items-start gap-2 ${isList ? 'basis-4/7 shrink-0' : ''}`}>
                 {(url && !isList) && <img src={url} alt={name} className="w-10 rounded-full"/>}
                 <div className="flex flex-col gap-0.5 text-sm">
-                    <div className="font-medium line-clamp-2 mb-0.5">{title}</div>
-                    <div className={`font-light text-xs opacity-80 ${isList ? 'line-clamp-1' : 'line-clamp-2'}`}>{channelTitle}</div>
+                    <div className="font-medium line-clamp-2 leading-4">{title}</div>
+                    <div className={`font-light text-xs opacity-80 line-clamp-1`}>{channelTitle}</div>
                     <div className="font-light text-xs flex items-center opacity-60">
                         {viewCount && <span
                             className="relative before:content-['•'] before:mx-1 first:before:content-none">조회수 {formatterKo.format(viewCount)}</span>}

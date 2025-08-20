@@ -7,6 +7,7 @@ import {useQuery} from "@tanstack/react-query";
 import Loading from "../components/Loading.jsx";
 import Error from "../components/Error.jsx";
 import VideoCard from "../components/VideoCard.jsx";
+import {formatAgo, formatterKo} from "../util/date.js";
 
 export default function VideoDetail() {
     const { isDark } = useDarkMode();
@@ -15,7 +16,8 @@ export default function VideoDetail() {
         state: { video },
     } = useLocation();
 
-    const { title, channelId, channelTitle, description } = video.snippet;
+    const { title, channelId, channelTitle, description, publishedAt } = video.snippet;
+    const { viewCount } = video.statistics;
 
     const { youtube } = useYoutubeApi();
 
@@ -25,11 +27,13 @@ export default function VideoDetail() {
         staleTime: 1000 * 60 * 5,
     })
 
+    console.log(video)
+
     if (isLoading) return <Loading/>;
     if (isError) return <Error error={isError}/>;
 
     return (
-        <section className="pt-20 pb-4 w-full px-4 grid grid-cols-1 lg:grid-cols-4 gap-10 lg:gap-5">
+        <section className="pt-20 mx-auto pb-4 w-full xl:w-[90vw] px-4 grid grid-cols-1 lg:grid-cols-4 gap-10 lg:gap-5">
             <article className="lg:col-span-3 flex flex-col gap-3">
                 <div className="relative rounded-xl bg-gray-200 aspect-[16/9] overflow-hidden">
                     <iframe
@@ -41,9 +45,18 @@ export default function VideoDetail() {
                     />
                 </div>
                 <div className="flex flex-col gap-0.5">
-                    <h2 className="text-xl lg:text-2xl font-semibold">{title}</h2>
+                    <h2 className="text-lg lg:text-xl font-semibold">{title}</h2>
                     <ChannelInfo id={channelId} name={channelTitle} />
-                    <pre className={` mt-2 font-pretendard p-3 whitespace-pre-wrap break-words rounded-xl font-light text-sm ${isDark ? 'bg-white/15' : 'bg-black/5'}`}>{description || '이 동영상에 추가된 설명이 없습니다.'}</pre>
+                    <div className={`mt-2 p-3 rounded-xl text-sm flex flex-col gap-2 ${isDark ? 'bg-white/15' : 'bg-black/5'}`}>
+                        <div className="flex items-center gap-2 font-semibold">
+                            {viewCount && <span
+                                className="">조회수 {formatterKo.format(viewCount)}회</span>}
+                            {publishedAt && <span
+                                className="">{formatAgo(publishedAt, 'ko')}</span>}
+                        </div>
+                        <pre
+                            className="font-pretendard whitespace-pre-wrap break-words font-light">{description || '이 동영상에 추가된 설명이 없습니다.'}</pre>
+                    </div>
                 </div>
             </article>
             {videos && (

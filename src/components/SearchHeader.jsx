@@ -9,6 +9,7 @@ export default function SearchHeader() {
     const navigate = useNavigate();
     const { keyword } = useParams();
     const [text, setText] = useState('');
+    const [isScrolled, setIsScrolled] = useState(false);
 
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -16,10 +17,18 @@ export default function SearchHeader() {
         navigate(trimmed ? `/videos/${encodeURIComponent(trimmed)}` : '/');
     }
 
+    useEffect(()=>{
+        const handleScroll = () => {
+            setIsScrolled(window.scrollY > 0);
+        }
+        window.addEventListener("scroll", handleScroll);
+        return () => window.removeEventListener("scroll", handleScroll);
+    },[]);
+
     useEffect(()=>{ setText(keyword || ''); },[keyword]);
 
     return (
-        <header className={`fixed top-0 left-0 z-40 w-full ${isDark ? 'bg-black/80' : 'bg-white/80'} transition-colors duration-100 backdrop-blur-md h-16 flex items-center justify-between px-4 gap-4`}>
+        <header className={`fixed top-0 left-0 z-40 w-full ${isDark ? 'bg-black/80' : 'bg-white/80'} ${isScrolled && 'shadow-xl shadow-black/10'} transition-colors duration-100 backdrop-blur-md h-16 flex items-center justify-between px-4 gap-4`}>
             <Link to='/'>
                 <svg xmlns="http://www.w3.org/2000/svg" id="yt-ringo2-svg_yt10"
                      viewBox="0 0 93 20" focusable="false" aria-hidden="true"
