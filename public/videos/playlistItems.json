@@ -1,0 +1,1286 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "39t00WkTbP6jKcVS9Z6mrHk8Ock",
+  "nextPageToken": "EAAaHlBUOkNCa2lFRUV6TUVOQ05EVTBRekpDUkRZM01UUQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O5_8eWgSEMPE4PgKIsQuPOnCgIY",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LnE0LUNSa2RfNzRn",
+      "snippet": {
+        "publishedAt": "2025-08-18T16:30:28Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Good Boy - Official Trailer | HD | IFC Films",
+        "description": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.\n\nDirector: Ben Leonberg\nStarring: Larry Fessenden, Arielle Friedman, Indy, Shane Jensen, Anya Krawcheck & Stuart Rudin\n\n#IFCFilms #GoodBoy\r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q4-CRkd_74g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q4-CRkd_74g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q4-CRkd_74g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q4-CRkd_74g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q4-CRkd_74g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q4-CRkd_74g"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "q4-CRkd_74g",
+        "videoPublishedAt": "2025-08-18T16:30:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YdmBrw5g_J5RUt1g2v--QNFCbxc",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LmVJa0lwNEw4NjVN",
+      "snippet": {
+        "publishedAt": "2025-07-28T15:00:22Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Whistle: Official Teaser | Dafne Keen, Nick Frost | HD | IFC Films",
+        "description": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down. As the body count rises, the friends investigate the origins of the deadly artifact in a desperate effort to stop the horrifying chain of events that they have set in motion.\n\nDirector: Corin Hardy\nStarring: Dafne Keen, Nick Frost, Sophie Nelisse, Michelle Fairley, Ali Skovbye\n\n#IFCFilms \n\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eIkIp4L865M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eIkIp4L865M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eIkIp4L865M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eIkIp4L865M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eIkIp4L865M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eIkIp4L865M"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "eIkIp4L865M",
+        "videoPublishedAt": "2025-07-28T15:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "51Vb8usYGh6cxErKn3-j9QiJswA",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LkY2dC1oNjhVdWhJ",
+      "snippet": {
+        "publishedAt": "2025-07-21T19:08:39Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "The Baltimorons - Official Trailer | HD | IFC Films",
+        "description": "After cracking a tooth on Christmas Eve, newly sober Cliff embarks on an adventure through Baltimore with Didi, his emergency dentist.\n\nDirector: Jay Duplass\nStarring: Michael Strassner, Liz Larsen, Olivia Luccardi\n\n#IFCFilms \n\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F6t-h68UuhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F6t-h68UuhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F6t-h68UuhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F6t-h68UuhI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F6t-h68UuhI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "F6t-h68UuhI"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "F6t-h68UuhI",
+        "videoPublishedAt": "2025-07-21T19:08:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D0zuQeBI3aADlEPy37eQbiPafEU",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LldSMmJ0emptbXVj",
+      "snippet": {
+        "publishedAt": "2025-05-07T15:00:01Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Dangerous Animals: Official Trailer | Jai Courtney | HD | IFC Films",
+        "description": "Trapped on a killer’s boat with hungry sharks circling below, a surfer must outwit a predator more dangerous than the ocean itself—will she escape, or become the next offering to the deep? Sean Byrne returns with his third visceral feature, DANGEROUS ANIMALS, exclusively in theaters June 6, 2025. \n\nDirector: Sean Byrne\nStarring: Jai Courtney, Hassie Harrison, Josh Heuston\n\n#IFCFilms #DangerousAnimals\n\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\n\nConnect with IFC Online\nIFC Films Official Site: http://www.ifcfilms.com\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WR2btzjmmuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WR2btzjmmuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WR2btzjmmuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WR2btzjmmuc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WR2btzjmmuc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WR2btzjmmuc"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "WR2btzjmmuc",
+        "videoPublishedAt": "2025-05-07T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FFMzaZYUDzRWLrcQ1NtV_Ib_QUw",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3Ll90R29udUVjT3E0",
+      "snippet": {
+        "publishedAt": "2025-04-30T15:00:11Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Hot Milk Feat. Emma Mackey | Official Trailer | HD | IFC Films",
+        "description": "Sofia travels to the Spanish coast with her domineering mother, who seeks a cure for a strange illness. A tantalizing world awaits Sofia, if she can escape her mother’s demands.\n\nDirector: Rebecca Lenkiewicz\nStarring: Emma Mackey, Vicky Krieps, Fiona Shaw \n\n#IFCFilms #HotMilk \n\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_tGonuEcOq4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_tGonuEcOq4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_tGonuEcOq4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_tGonuEcOq4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_tGonuEcOq4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_tGonuEcOq4"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "_tGonuEcOq4",
+        "videoPublishedAt": "2025-04-30T15:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NsRv2WjsvO7p5_wvIVm2Zytqmww",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LmRVd0czdk5UT3hN",
+      "snippet": {
+        "publishedAt": "2025-04-08T14:30:06Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Tornado - Official Trailer | HD | IFC Films",
+        "description": "When her father's puppet Samurai show is ambushed by a notorious gang, Tornado vows to seek vengeance and forge her own destiny by stealing the gang's ill-gotten gold.\n\nDirector: John Maclean\nStarring: Koki, Tim Roth, Takehiro Hira\n\n#IFCFilms #Tornado \n\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dUwG3vNTOxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dUwG3vNTOxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dUwG3vNTOxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dUwG3vNTOxM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dUwG3vNTOxM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dUwG3vNTOxM"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "dUwG3vNTOxM",
+        "videoPublishedAt": "2025-04-08T14:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4NBSZVh051HbWD94cd_i5lPwK-s",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LmxBN0ptNkdkTE9V",
+      "snippet": {
+        "publishedAt": "2025-03-20T14:30:05Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Dangerous Animals: Official Teaser | Jai Courtney | HD | IFC Films",
+        "description": "Trapped on a killer’s boat with hungry sharks circling below, a surfer must outwit a predator more dangerous than the ocean itself—will she escape, or become the next offering to the deep? Sean Byrne returns with his third visceral feature, DANGEROUS ANIMALS, exclusively in theaters June 6, 2025. \n\nDirector: Sean Byrne\nStarring: Jai Courtney, Hassie Harrison, Josh Heuston\n\n#IFCFilms #DangerousAnimals\r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lA7Jm6GdLOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lA7Jm6GdLOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lA7Jm6GdLOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lA7Jm6GdLOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lA7Jm6GdLOU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lA7Jm6GdLOU"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "lA7Jm6GdLOU",
+        "videoPublishedAt": "2025-03-20T14:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ugPLQdHPSYDBBW_yigAlZWgZxh0",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LjVEd19wdWpncDVZ",
+      "snippet": {
+        "publishedAt": "2025-03-13T17:00:23Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "The Luckiest Man In America - Official Trailer | HD | IFC Films",
+        "description": "Go behind the scenes of the most infamous episode in game show history, as an ice cream truck driver harboring a powerful secret charms his way onto Press Your Luck.\n\nDirected by: Samir Oliveros\nStarring: Paul Walter Hauser, Walton Goggins, David Strathairn, Maisie Williams \n\n#IFCFilms #TheLuckiestManInAmerica \n\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Dw_pujgp5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Dw_pujgp5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Dw_pujgp5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5Dw_pujgp5Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5Dw_pujgp5Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5Dw_pujgp5Y"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "5Dw_pujgp5Y",
+        "videoPublishedAt": "2025-03-13T17:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Awhp5k9lEwdZpbOWSoOkGmd6_xk",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3Lm1zRnRkV3I1S3Fz",
+      "snippet": {
+        "publishedAt": "2025-02-24T15:50:57Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "The Rule of Jenny Pen Official Trailer | John Lithgow & Geoffrey Rush | HD | IFC Films",
+        "description": "A former judge must stop an elderly psychopath who employs a child’s puppet to abuse the residents of their shared rest home with deadly consequences.\n\nDirected by: James Ashcroft\nStarring: John Lithgow, Geoffrey Rush \n\n#IFCFilms #TheRuleOfJennyPen\r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/msFtdWr5Kqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/msFtdWr5Kqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/msFtdWr5Kqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/msFtdWr5Kqs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/msFtdWr5Kqs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "msFtdWr5Kqs"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "msFtdWr5Kqs",
+        "videoPublishedAt": "2025-02-24T15:50:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gjS20Fe1_44I2DCaLw320GNKMjI",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3Lks5cGswUzFDbENj",
+      "snippet": {
+        "publishedAt": "2025-02-11T16:42:02Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "ARMAND is now theaters.",
+        "description": "#IFCFilms \r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K9pk0S1ClCc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K9pk0S1ClCc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K9pk0S1ClCc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K9pk0S1ClCc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K9pk0S1ClCc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K9pk0S1ClCc"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "K9pk0S1ClCc",
+        "videoPublishedAt": "2025-02-11T16:42:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6qTLmFMSeuZmacjHYvYe6fhYemw",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LjllZE9FTk9CU2pZ",
+      "snippet": {
+        "publishedAt": "2025-02-03T18:11:00Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "The Rule of Jenny Pen: Teaser Trailer | John Lithgow & Geoffrey Rush | HD | IFC Films",
+        "description": "A former judge must stop an elderly psychopath who employs a child’s puppet to abuse the residents of their shared rest home with deadly consequences.\n \nDirected by: James Ashcroft\nStarring: John Lithgow, Geoffrey Rush \n\n#IFCFilms #TheRuleofJennyPen \n\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9edOENOBSjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9edOENOBSjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9edOENOBSjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9edOENOBSjY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9edOENOBSjY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9edOENOBSjY"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "9edOENOBSjY",
+        "videoPublishedAt": "2025-02-03T18:11:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v2eQIbU87p4BoOeY6A2G1BUhtEk",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LjBrcUdrUTFxeE4w",
+      "snippet": {
+        "publishedAt": "2025-01-08T17:03:36Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Armand - Official Trailer | HD | IFC Films",
+        "description": "Opening in theaters February 7  \n\nWhen Elisabeth (Renate Reinsve, The Worst Person in the World) is called to a parent-teacher conference after hours, she is presented with scathing allegations that trigger a tangled web of accusations between parents and faculty.\n\nDirected by: Halfdan Ullmann Tøndel\nStarring: Renate Reinsve, Ellen Dorrit Petersen, Øystein Røger\n\n#IFCFilms #Armand\n\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\n\nConnect with IFC Online\nIFC Films Official Site: http://www.ifcfilms.com\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0kqGkQ1qxN0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0kqGkQ1qxN0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0kqGkQ1qxN0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0kqGkQ1qxN0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0kqGkQ1qxN0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0kqGkQ1qxN0"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "0kqGkQ1qxN0",
+        "videoPublishedAt": "2025-01-08T17:03:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AKGaWbdvL0HihPWd_4hsPunRxB8",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LjdOaXVhMS1PZjlz",
+      "snippet": {
+        "publishedAt": "2024-12-04T17:21:47Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "\"Are you missing home yet?\" Get Away opens in US theaters THIS FRIDAY!",
+        "description": "#IFCFilms \r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Niua1-Of9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Niua1-Of9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Niua1-Of9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Niua1-Of9s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Niua1-Of9s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7Niua1-Of9s"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "7Niua1-Of9s",
+        "videoPublishedAt": "2024-12-04T17:21:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K1yrCNdGRjcYkumSUIGwlGuMJ1o",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LkFva0REcE8zWWg0",
+      "snippet": {
+        "publishedAt": "2024-11-26T18:11:48Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Inheritance - Official Trailer | Phoebe Dynevor | HD | IFC Films",
+        "description": "From director Neil Burger (Divergent, The Illusionist), Inheritance follows Maya, who learns her father was once a spy. Suddenly, she finds herself at the center of an international conspiracy. \n\nDirector: Neil Burger \nStarring: Phoebe Dynevor, Rhys Ifans, Ciara Baxendale, Majd Eid\n\n#IFCFilms #Inheritance \n\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AokDDpO3Yh4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AokDDpO3Yh4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AokDDpO3Yh4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AokDDpO3Yh4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AokDDpO3Yh4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AokDDpO3Yh4"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "AokDDpO3Yh4",
+        "videoPublishedAt": "2024-11-26T18:11:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ymYdeSPmhToSb-wjeGjYTMce3tk",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LlRjYnBlSlVLcDIw",
+      "snippet": {
+        "publishedAt": "2024-11-21T15:00:34Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Sarah Snook on 'Memoir of a Snail' - Featurette | HD | IFC Films",
+        "description": "Now Playing in select theaters.  \n\nGrace Pudel is a book-loving, snail-collecting misfit that falls into a series of misfortunes after being separated from her twin brother Gilbert. Despite her hardships, inspiration and hope arise when Grace begins a friendship with an eccentric elderly woman named Pinky. From Academy Award-winning writer and director Adam Elliot, Memoir of a Snail is a heartfelt and hilarious chronicle of the life of an outsider finding her confidence and silver linings amongst the clutter of everyday life. \n\nStarring: Jacki Weaver, Sarah Snook, Eric Bana\nDirector: Adam Elliot\n\n#IFCFilms #MemoirofaSnail\n\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\n\nConnect with IFC Online\nIFC Films Official Site: http://www.ifcfilms.com\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TcbpeJUKp20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TcbpeJUKp20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TcbpeJUKp20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TcbpeJUKp20/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TcbpeJUKp20/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TcbpeJUKp20"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "TcbpeJUKp20",
+        "videoPublishedAt": "2024-11-21T15:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BKJF9VTDHKVXA92mU59w8EvR300",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LlBCcGtWUVZfaEt3",
+      "snippet": {
+        "publishedAt": "2024-11-19T16:02:03Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Are you up for this?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PBpkVQV_hKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PBpkVQV_hKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PBpkVQV_hKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PBpkVQV_hKw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PBpkVQV_hKw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PBpkVQV_hKw"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "PBpkVQV_hKw",
+        "videoPublishedAt": "2024-11-19T16:02:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fxuqlyXrBe1rVnHq9g31DPLO0wQ",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LnZyWkFOQm51bGlz",
+      "snippet": {
+        "publishedAt": "2024-11-15T18:13:47Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "It's an international conspiracy. And you're at the center. #Inheritance",
+        "description": "Director: Neil Burger \nStarring: Phoebe Dynevor, Rhys Ifans\n\n#IFCFilms \n\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vrZANBnulis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vrZANBnulis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vrZANBnulis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vrZANBnulis/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vrZANBnulis/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vrZANBnulis"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "vrZANBnulis",
+        "videoPublishedAt": "2024-11-15T18:13:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w-YFovHS27SVkvy8OCI-UK5D8Cs",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3Lk4tRnRtT1FoOFBV",
+      "snippet": {
+        "publishedAt": "2024-11-08T15:19:20Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Christmas Eve in Miller's Point is now in theaters!",
+        "description": "#IFCFilms \r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N-FtmOQh8PU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N-FtmOQh8PU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N-FtmOQh8PU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N-FtmOQh8PU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N-FtmOQh8PU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N-FtmOQh8PU"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "N-FtmOQh8PU",
+        "videoPublishedAt": "2024-11-08T15:19:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lCBUq4poVRShqQt5be6d-3SSqYI",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3Lk5WLXpDakw5UEtZ",
+      "snippet": {
+        "publishedAt": "2024-11-07T19:30:17Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Armand: Teaser Trailer | Renate Reinsve | HD | IFC Films",
+        "description": "Opening in theaters starting February 7.\n\nWas it just a children’s game or something more serious? Elisabeth (Renate Reinsve) is called into her son’s school when something happens between Armand and his friend Jon. But the incident triggers a series of events, forcing parents and school staff into a captivating battle – where madness, desire, and obsession arise.  \n\nDirected by: Halfdan Ullmann Tøndel\nStarring: Renate Reinsve, Ellen Dorrit Petersen, Øystein Røger\n\n#IFCFilms #Armand\n\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\n\nConnect with IFC Online\nIFC Films Official Site: http://www.ifcfilms.com\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NV-zCjL9PKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NV-zCjL9PKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NV-zCjL9PKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NV-zCjL9PKY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NV-zCjL9PKY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NV-zCjL9PKY"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "NV-zCjL9PKY",
+        "videoPublishedAt": "2024-11-07T19:30:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TauUdkIVWepCYvPnbuxA6prXitM",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LlZGeExOY3JCUzlv",
+      "snippet": {
+        "publishedAt": "2024-11-06T17:02:12Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "\"What time are we getting out of here? Christmas Eve in Miller's Point is In Theaters This Friday!\"",
+        "description": "#IFCFilms \r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VFxLNcrBS9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VFxLNcrBS9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VFxLNcrBS9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VFxLNcrBS9o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VFxLNcrBS9o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VFxLNcrBS9o"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "VFxLNcrBS9o",
+        "videoPublishedAt": "2024-11-06T17:02:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_6gUR7oDGjU56ZAhHqMRYzgLo3w",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LlYxdERpTm16bWlv",
+      "snippet": {
+        "publishedAt": "2024-11-04T18:46:35Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "The countdown begins: 5 days until Christmas Eve in Miller's Point. See it in theaters November 8!",
+        "description": "#IFCFilms \r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V1tDiNmzmio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V1tDiNmzmio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V1tDiNmzmio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V1tDiNmzmio/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V1tDiNmzmio/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V1tDiNmzmio"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "V1tDiNmzmio",
+        "videoPublishedAt": "2024-11-04T18:46:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xZZRN-b324lxfTj9Qut68LQhkWU",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LjQ4Ylg5VUtfczNF",
+      "snippet": {
+        "publishedAt": "2024-10-30T15:36:37Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Pinky has lived an amazing life. Meet her in Memoir of a Snail. Now playing in select theaters!",
+        "description": "#IFCFilms \r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/48bX9UK_s3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/48bX9UK_s3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/48bX9UK_s3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/48bX9UK_s3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/48bX9UK_s3E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "48bX9UK_s3E"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "48bX9UK_s3E",
+        "videoPublishedAt": "2024-10-30T15:36:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dT_rN_5DrZ_8kn5psWu30jM5GtA",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3LmI1MjNhVGZLQ2Rj",
+      "snippet": {
+        "publishedAt": "2024-10-23T16:34:18Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "The award-winning Memoir of a Snail is in theaters this Friday!",
+        "description": "#IFCFilms \r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b523aTfKCdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b523aTfKCdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b523aTfKCdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b523aTfKCdc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b523aTfKCdc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b523aTfKCdc"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "b523aTfKCdc",
+        "videoPublishedAt": "2024-10-23T16:34:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HHRFSdwjvNgNqQBSGLEalBAi4SY",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3Lk45bU81NTZlQW1n",
+      "snippet": {
+        "publishedAt": "2024-10-21T19:41:55Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Sarah Snook on bringing Grace Pudel to life. Memoir of a Snail is in theaters October 25.",
+        "description": "#IFCFilms \r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N9mO556eAmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N9mO556eAmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N9mO556eAmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N9mO556eAmg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N9mO556eAmg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N9mO556eAmg"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "N9mO556eAmg",
+        "videoPublishedAt": "2024-10-21T19:41:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FrzmGTbk8DcaJVl8R-RwYmjul1k",
+      "id": "VVVPbjkyM1VuYlY4SDl6b19sTzZaQ1J3Lm50Q2hldEkxS2JF",
+      "snippet": {
+        "publishedAt": "2024-10-09T15:44:19Z",
+        "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+        "title": "Filmmaking and craftsmanship at the highest level. Memoir of a Snail is in theaters October 25.",
+        "description": "#IFCFilms \r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ntChetI1KbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ntChetI1KbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ntChetI1KbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ntChetI1KbE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ntChetI1KbE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IFC Films",
+        "playlistId": "UUOn923UnbV8H9zo_lO6ZCRw",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ntChetI1KbE"
+        },
+        "videoOwnerChannelTitle": "IFC Films",
+        "videoOwnerChannelId": "UCOn923UnbV8H9zo_lO6ZCRw"
+      },
+      "contentDetails": {
+        "videoId": "ntChetI1KbE",
+        "videoPublishedAt": "2024-10-09T15:44:19Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1225,
+    "resultsPerPage": 25
+  }
+}

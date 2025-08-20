@@ -1,0 +1,75 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "1RUYPm78nATWyvF2Cn7-wvyJVZM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "pU0477UW-1EDRf35qRU0xp851EA",
+            "id": "zZAe5ewM-ic",
+            "snippet": {
+                "publishedAt": "2025-07-22T12:59:05Z",
+                "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+                "title": "Pokémon Presents | 7.22.2025",
+                "description": "What did you think of today’s Pokémon Presents, Trainers? 👀\n\nOfficial Site: https://www.pokemon.com\nInstagram: http://www.instagram.com/pokemon\nTikTok: https://www.tiktok.com/@pokemonofficial\nSnapchat: https://pkmn.news/Snapchat",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zZAe5ewM-ic/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zZAe5ewM-ic/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zZAe5ewM-ic/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zZAe5ewM-ic/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zZAe5ewM-ic/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Official Pokémon YouTube channel",
+                "tags": [
+                    "#pokemon",
+                    "#pokemonpresents"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Pokémon Presents | 7.22.2025",
+                    "description": "What did you think of today’s Pokémon Presents, Trainers? 👀\n\nOfficial Site: https://www.pokemon.com\nInstagram: http://www.instagram.com/pokemon\nTikTok: https://www.tiktok.com/@pokemonofficial\nSnapchat: https://pkmn.news/Snapchat"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT24M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2146304",
+                "likeCount": "71663",
+                "favoriteCount": "0",
+                "commentCount": "14309"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "M_Gf2TwnWWyewNoSkuCIztIuJrc",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 30,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mUejwrD2p7kk_BJbIoTg2AlLWwk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2lBmz-LNmdQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-23T22:30:05Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "DJ Pikachu&#39;s Full Set 🎧",
+        "description": "Trainers, what did you think of DJ Pikachu's set? ⚡   Find all your favorite Pokémon merchandise at the official Pokémon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2lBmz-LNmdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2lBmz-LNmdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2lBmz-LNmdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-23T22:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7MSxuaPgI6SQaEhMTcYoi9XeUAo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vXqkYo0i_XI"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-23T19:01:01Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "Have you caught Clodsire in Pokémon GO yet? 🤔",
+        "description": "Find all your favorite Pokémon merchandise at the official Pokémon Center: https://www.pokemoncenter.com/ Official Site: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vXqkYo0i_XI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vXqkYo0i_XI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vXqkYo0i_XI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-23T19:01:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nZ4SzkgZBiB3kAF6hkXE6S551k4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l2qhh3nZO_k"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T19:00:52Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "Grookey #0810 | Animated Pokédex Series",
+        "description": "Get groovy with Grookey! What dance moves are you showing off? Find all your favorite Pokémon merchandise at the official ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l2qhh3nZO_k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l2qhh3nZO_k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l2qhh3nZO_k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T19:00:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z8cLDQWDxC4-vARRBJ5XwrM2Ui8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VHAcbY1sEag"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:30:41Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "[UK] Make the Most of Your Adventure in Pokémon Legends: Z-A!",
+        "description": "In​ Pokémon Legends: Z-A, Trainers can explore Lumiose City like never before!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VHAcbY1sEag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VHAcbY1sEag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VHAcbY1sEag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:30:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hVVqh5EcjjpPFTGuiI79YdG6tFc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j3W9npYPFk0"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:30:46Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "[UK] Start a New Story in Lumiose City with Pokémon Legends: Z-A!",
+        "description": "Preorders for Pokémon Legends: Z-A are available now! Don't miss this special video showcasing the latest information about this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j3W9npYPFk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j3W9npYPFk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j3W9npYPFk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:30:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R-apITM-UY-wBi7RC8V4FlLHC-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N4v--PNtHWA"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:29:24Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "Pokémon Champions | Overview | Arriving 2026",
+        "description": "Get ready to experience everything you love about Pokémon battles all in one place—in Pokémon Champions! This new ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N4v--PNtHWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N4v--PNtHWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N4v--PNtHWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:29:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RGSs6DMJVrQb7KmeIMlaFQTDTRA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Eo7PmXkP0LA"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:28:52Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "Make the Most of Your Adventure in Pokémon Legends: Z-A!",
+        "description": "In​ the Pokémon Legends: Z-A game, Trainers can explore Lumiose City like never before! Official Site: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Eo7PmXkP0LA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Eo7PmXkP0LA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Eo7PmXkP0LA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:28:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gkJvDGg_rEIEr33-o2UuVywt0ao",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fWDx1omjIwM"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:28:57Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "Start a New Story in Lumiose City with Pokémon Legends: Z-A!",
+        "description": "Preorders for Pokémon Legends: Z-A are available now! Don't miss the latest information about this ambitious new entry to the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fWDx1omjIwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fWDx1omjIwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fWDx1omjIwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:28:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CMcNh6g4jJQWOOUF4SJZmKFftPE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rBoDsuE1t0Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:25:25Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "Pokémon Café ReMix | Set Sail for the Sea 🌊",
+        "description": "Ahoy, Trainers—summer is in full swing, and you're invited to join our ocean crew! ‍☠️ Meet Lapras in its five-star sea captain ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rBoDsuE1t0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rBoDsuE1t0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rBoDsuE1t0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:25:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vijECByWoURliwZ18s9i8IK_Z70",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sms37W1x3-M"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:26:40Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "Pokémon TCG: Mega Evolution | Showcase Trailer",
+        "description": "Mega Evolution returns to the Pokémon Trading Card Game in a big way in the upcoming Mega Evolution expansion. Here's a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sms37W1x3-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sms37W1x3-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sms37W1x3-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:26:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VIxmCE9eytSM4Zpx5kMGGpl1S_s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "om_7wKXw1XE"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:25:58Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "Pokémon Tales: The Misadventures of Sirfetch’d &amp; Pichu | Teaser",
+        "description": "Pokémon Tales: The Misadventures of Sirfetch'd & Pichu is a new stop-motion animated series from Pokémon and Aardman ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/om_7wKXw1XE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/om_7wKXw1XE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/om_7wKXw1XE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:25:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LYI0pcGKAvbjEqyslIqX8N5F6PE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e4YBHig-wfA"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:25:50Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "Pokémon GO | Pokémon GO Fest 2025: Max Finale",
+        "description": "Pokémon GO Fest 2025: Max Finale is coming soon! Max Pokémon will be appearing one after another. And Eternatus will be ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e4YBHig-wfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e4YBHig-wfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e4YBHig-wfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:25:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6oF75xdtJXLeBOZN5z-cYbsNmj8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TLBCN7LsQkY"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:26:33Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "[UK] Latias joins Pokémon UNITE!",
+        "description": "Celebrate the 4th anniversary of Pokémon UNITE with Latios and Latias! The Legendary Latias makes its Pokémon UNITE debut ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TLBCN7LsQkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TLBCN7LsQkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TLBCN7LsQkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:26:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XiWyDlATHAz0AKWC43U9KXe9af0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_C9J9UqjlpI"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:26:37Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "[UK] Puzzles, Plush, and Pokémon Await in Pokémon Friends! 💡",
+        "description": "The more you solve, the more you can create! Enjoy that “Eureka!” moment every day by solving daily puzzles, collecting yarn, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_C9J9UqjlpI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_C9J9UqjlpI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_C9J9UqjlpI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:26:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-0zTotjOkbAzH1cikZd9_L9aZ2w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Uwu_ehZXH2g"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:26:28Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "[UK] Pokémon GO | Pokémon GO Fest 2025: Max Finale",
+        "description": "Pokémon GO Fest 2025: Max Finale is coming soon! Max Pokémon will be appearing one after another. And Eternatus will be ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uwu_ehZXH2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uwu_ehZXH2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uwu_ehZXH2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:26:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tgpcEJFWjsaFP1z1tDfwEdljTHk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FnMbL1iVggc"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:25:40Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "Pokémon Scarlet and Pokémon Violet | The Shiny Treasure of Ruin ✨",
+        "description": "A new Tera Raid Battle event series is happening that will feature Shiny Wo-Chien, Shiny Chien-Pao, Shiny Ting-Lu, and Shiny ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FnMbL1iVggc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FnMbL1iVggc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FnMbL1iVggc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:25:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7tdJstNFFCuhSkF-LZvFSOevnPg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AzL8NUUgwdc"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:25:21Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "NEW Pokémon Concierge Episodes 🏝️ | Coming September 4 to Netflix | Official Trailer",
+        "description": "Pack your bags—we're headed back to the Pokémon Resort! New episodes of Pokémon Concierge arrive September 4 on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AzL8NUUgwdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AzL8NUUgwdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AzL8NUUgwdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:25:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NkYAlYuj0xmk3CRMCVRwxP8gRg8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eikfOuDF6RI"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:26:42Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "[UK] Pokémon Champions | Overview | Arriving 2026",
+        "description": "Get ready to experience everything you love about Pokémon battles all in one place—in Pokémon Champions! This new ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eikfOuDF6RI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eikfOuDF6RI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eikfOuDF6RI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:26:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gKcQumP-FdPCThlj80CqjEbl0q4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0-_GOGmkusY"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:25:13Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "It’s Terastallizing Time! Carmine &amp; Sinistcha Arrive!",
+        "description": "Carmine & Sinistcha bring the Terastal phenomenon to Pasio! You can team up with Carmine & Sinistcha from July 28 at 11:00 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0-_GOGmkusY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0-_GOGmkusY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0-_GOGmkusY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:25:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K5KOTeYLzHVvtotMjtfnNUywhSM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VbW585_nTj0"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T13:25:07Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "Research Raikou, Entei, and Suicune | Pokémon Sleep",
+        "description": "Get research ready! In September 2025, Pokémon Sleep will host a new event focused on Raikou, Entei, and Suicune! Plus, a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VbW585_nTj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VbW585_nTj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VbW585_nTj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T13:25:07Z"
+      }
+    }
+  ]
+}
