@@ -27,8 +27,6 @@ export default function VideoDetail() {
         staleTime: 1000 * 60 * 5,
     })
 
-    console.log(video)
-
     if (isLoading) return <Loading/>;
     if (isError) return <Error error={isError}/>;
 
